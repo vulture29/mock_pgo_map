@@ -6,6 +6,9 @@
 - Add more feature to website.
 - Measurement of the application.
 
+####Demo
+![](./img/demo.png)
+
 ####Architecture
 ![](./img/Architecture.png)
 
