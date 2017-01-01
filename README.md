@@ -23,6 +23,7 @@
 	- At the same time, Query cluster get corresponding pokemon data from pokemon database.
 	- Crawl cluster receive message from message queue and crawl pokemon data by calling Pokemon API.
 	- Once get result of pokemon API, Crawl cluster write pokemon write pokemon data to database.
+	- To save money, aws servers have been stopped temporarily.
 - About Pokemon API
 	- The old version of Pokemon API found in github doesn't work now. Maybe Niantic blocked it. So we use mock pokemon api instead.
 
