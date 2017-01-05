@@ -1,7 +1,6 @@
 #Mock Pokemon Map
 
 ####TO DO LIST:
-- Optimize query logic so that it won't send messages that contains the same lcoation infomation.(REDIS)
 - Add code snippets to clear RDS regularly.
 - Add more feature to website.
 - Measurement of the application.
@@ -22,6 +21,7 @@
 	- At the same time, Query cluster get corresponding pokemon data from pokemon database.
 	- Crawl cluster receive message from message queue and crawl pokemon data by calling Pokemon API.
 	- Once get result of pokemon API, Crawl cluster write pokemon write pokemon data to database.
+	- Optimized query logic with REDIS so that it won't send messages that contains the same lcoation infomation.
 	- To save money, aws servers have been stopped temporarily.
 - About Pokemon API
 	- The old version of Pokemon API found in github doesn't work now. Maybe Niantic blocked it. So we use mock pokemon api instead.
