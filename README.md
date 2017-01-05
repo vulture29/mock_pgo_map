@@ -31,4 +31,4 @@
 ####Toolset
 - Python
 - Django
-- AWS EC2, API Gateway, RDS, Elastic Beanstalk, IAM, SQS, Git
+- AWS EC2, API Gateway, REDIS, Elastic Beanstalk, IAM, SQS, Git
