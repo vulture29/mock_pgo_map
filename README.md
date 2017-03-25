@@ -1,9 +1,5 @@
 #Mock Pokemon Map
 
-####TO DO LIST:
-- Add code snippets to clear RDS regularly.
-- Add more feature to website.
-- Measurement of the application.
 
 ####Demo
 ![](./img/demo.png)
@@ -32,3 +28,8 @@
 - Python
 - Django
 - AWS EC2, API Gateway, REDIS, Elastic Beanstalk, IAM, SQS, Git
+
+####TO DO LIST:
+- Add code snippets to clear RDS regularly.
+- Add more feature to website.
+- Measurement of the application.
