@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Di Chen <xxx@gmail.com>
+MAINTAINER Xingyao Huang <xxx@gmail.com>
 
 # Level 1
 RUN apt-get update -y && apt-get install -y libpq-dev \
