@@ -1,10 +1,10 @@
-#Mock Pokemon Map
+# Mock Pokemon Map
 
 
-####Demo
+#### Demo
 ![](./img/demo.png)
 
-####Architecture
+#### Architecture
 
 - Frontend
 	- Used Github gh-pages to hold our frontend website.
@@ -24,12 +24,8 @@
 	
 ![](./img/Architecture.png)
 
-####Toolset
+#### Toolset
 - Python
 - Django
 - AWS EC2, API Gateway, REDIS, Elastic Beanstalk, IAM, SQS, Git
 
-####TO DO LIST:
-- Add code snippets to clear RDS regularly.
-- Add more feature to website.
-- Measurement of the application.
